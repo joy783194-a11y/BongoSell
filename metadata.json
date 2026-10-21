@@ -1,0 +1,6 @@
+{
+  "name": "BongoSell AI - AI Messenger Sales Assistant for Bangladeshi F-Commerce",
+  "description": "Bangla and Banglish AI chatbot for Bangladeshi Facebook Page sellers. Automate customer replies, product inquiries, pricing rules, and order collection 24/7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
